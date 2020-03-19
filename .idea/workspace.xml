@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3eb2523d-395b-46fc-ac9e-10414ad9c6da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.2.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZLixcpFyrtLBmnXwBG6Tu1X1sE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3eb2523d-395b-46fc-ac9e-10414ad9c6da" name="Default Changelist" comment="" />
+      <created>1584625022779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584625022779</updated>
+      <workItem from="1584625024629" duration="1543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584626765660">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="624" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584626765660" />
+    <state x="553" y="152" key="FileChooserDialogImpl" timestamp="1584625713689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="152" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584625713689" />
+    <state x="274" y="40" key="SettingsEditor" timestamp="1584625723639">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="274" y="40" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584625723639" />
+    <state x="461" y="143" key="Vcs.Push.Dialog.v2" timestamp="1584626570828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="143" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584626570828" />
+  </component>
+</project>
